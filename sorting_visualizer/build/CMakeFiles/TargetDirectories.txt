@@ -1,0 +1,3 @@
+/home/iko/Desktop/github_ilker/C-CPP-Data-Structures-Algorithms/sorting_visualizer/build/CMakeFiles/sorting_visualizer.dir
+/home/iko/Desktop/github_ilker/C-CPP-Data-Structures-Algorithms/sorting_visualizer/build/CMakeFiles/edit_cache.dir
+/home/iko/Desktop/github_ilker/C-CPP-Data-Structures-Algorithms/sorting_visualizer/build/CMakeFiles/rebuild_cache.dir
