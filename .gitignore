@@ -1,0 +1,13 @@
+# CMake / build output
+build/
+cmake-build-*/
+
+# IDE
+.idea/
+.vscode/
+
+# Compiled objects & binaries
+*.o
+*.out
+*.obj
+a.out
